@@ -1,3 +1,8 @@
+---OBJECTIVE OF THIS PROJECT--
+          -The Objective of this project to analyze retail sales data using SQL to identify sales trends,customer purchasing behavior 
+           and product category performance by applying various SQL queries and analytical techniques.
+
+
 --- SQL Retail Sales Analysis project---
 
 CREATE DATABASE SQL_PROJECT_P2;
